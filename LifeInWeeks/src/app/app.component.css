@@ -1,0 +1,11 @@
+.weeksquare {
+    width: 15px;
+    height: 15px;
+    margin: 2px;
+    background-color: aquamarine;
+    border: none;
+}
+
+.weeksquare:hover {
+    border:2px dashed blueviolet;
+}
