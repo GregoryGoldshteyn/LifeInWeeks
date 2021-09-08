@@ -1,6 +1,6 @@
 <div *ngFor="let year of years" class="row">
   <small class="text-muted">{{year.year}}</small>
-  <button *ngFor="let week of year.weeks" class="weeksquare" >
+  <button *ngFor="let week of year.weeks" class="weeksquare" (click)="openWeekInspector(week, year.year)">
     
   </button>
 </div>

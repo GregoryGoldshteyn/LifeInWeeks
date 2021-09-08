@@ -1,0 +1,7 @@
+<h1 mat-dialog-title>Week {{data.week.id}} of {{data.year}}</h1>
+<h2 mat-dialog-title>{{data.week.start_date}} - {{data.week.end_date}}</h2>
+<div mat-dialog-content>
+    <ul>
+        <li *ngFor="let event of data.week.notable_events">{{event}}</li>
+    </ul>
+</div>
