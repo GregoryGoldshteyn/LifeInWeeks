@@ -1198,7 +1198,7 @@
         "id": 40,
         "start_date": "1999-09-06",
         "end_date": "1999-09-12",
-        "notable_events": []
+        "notable_events": ["Started Pre-K"]
       },
       {
         "id": 41,
@@ -7436,7 +7436,7 @@
         "id": 23,
         "start_date": "2019-05-10",
         "end_date": "2019-05-16",
-        "notable_events": []
+        "notable_events": ["Death of David Aochoa"]
       },
       {
         "id": 24,
@@ -7628,7 +7628,7 @@
         "id": 2,
         "start_date": "2019-12-14",
         "end_date": "2019-12-20",
-        "notable_events": []
+        "notable_events": ["Start trip to NJ"]
       },
       {
         "id": 3,
@@ -7640,7 +7640,7 @@
         "id": 4,
         "start_date": "2019-12-28",
         "end_date": "2020-01-03",
-        "notable_events": []
+        "notable_events": ["Death of Linda Ladjack"]
       },
       {
         "id": 5,
@@ -7652,7 +7652,7 @@
         "id": 6,
         "start_date": "2020-01-11",
         "end_date": "2020-01-17",
-        "notable_events": []
+        "notable_events": ["Return to Seattle from NJ"]
       },
       {
         "id": 7,
@@ -7820,7 +7820,7 @@
         "id": 34,
         "start_date": "2020-07-25",
         "end_date": "2020-07-31",
-        "notable_events": []
+        "notable_events": ["Move to building 115"]
       },
       {
         "id": 35,
@@ -7886,7 +7886,7 @@
         "id": 45,
         "start_date": "2020-10-10",
         "end_date": "2020-10-16",
-        "notable_events": ["Married Hayley"]
+        "notable_events": []
       },
       {
         "id": 46,
@@ -7939,13 +7939,13 @@
         "id": 1,
         "start_date": "2020-12-07",
         "end_date": "2020-12-13",
-        "notable_events": []
+        "notable_events": ["Married Hayley"]
       },
       {
         "id": 2,
         "start_date": "2020-12-14",
         "end_date": "2020-12-20",
-        "notable_events": []
+        "notable_events": ["Start trip to NJ"]
       },
       {
         "id": 3,
@@ -7963,7 +7963,7 @@
         "id": 5,
         "start_date": "2021-01-04",
         "end_date": "2021-01-10",
-        "notable_events": []
+        "notable_events": ["Return to Seattle from NJ"]
       },
       {
         "id": 6,
@@ -7999,7 +7999,7 @@
         "id": 11,
         "start_date": "2021-02-15",
         "end_date": "2021-02-21",
-        "notable_events": []
+        "notable_events": ["Begin RingFit Adventure"]
       },
       {
         "id": 12,
@@ -8113,19 +8113,19 @@
         "id": 30,
         "start_date": "2021-06-28",
         "end_date": "2021-07-04",
-        "notable_events": []
+        "notable_events": ["Start vacation in NJ"]
       },
       {
         "id": 31,
         "start_date": "2021-07-05",
         "end_date": "2021-07-11",
-        "notable_events": []
+        "notable_events": ["Start trip to Ocean City MD"]
       },
       {
         "id": 32,
         "start_date": "2021-07-12",
         "end_date": "2021-07-18",
-        "notable_events": []
+        "notable_events": ["End trip Ocean City MD"]
       },
       {
         "id": 33,
@@ -8137,13 +8137,13 @@
         "id": 34,
         "start_date": "2021-07-26",
         "end_date": "2021-08-01",
-        "notable_events": []
+        "notable_events": ["Death of Uncle Al"]
       },
       {
         "id": 35,
         "start_date": "2021-08-02",
         "end_date": "2021-08-08",
-        "notable_events": []
+        "notable_events": ["Return to Seattle from NJ"]
       },
       {
         "id": 36,
@@ -8155,25 +8155,25 @@
         "id": 37,
         "start_date": "2021-08-16",
         "end_date": "2021-08-22",
-        "notable_events": []
+        "notable_events": ["Resumed RingFit Adventure"]
       },
       {
         "id": 38,
         "start_date": "2021-08-23",
         "end_date": "2021-08-29",
-        "notable_events": []
+        "notable_events": ["Went produce picking at farm", "First day at new office in building 16"]
       },
       {
         "id": 39,
         "start_date": "2021-08-30",
         "end_date": "2021-09-05",
-        "notable_events": []
+        "notable_events": ["Promoted from Lvl 59 to Lvl 60 at Microsoft"]
       },
       {
         "id": 40,
         "start_date": "2021-09-06",
         "end_date": "2021-09-12",
-        "notable_events": []
+        "notable_events": ["Saw Hella-Mega Tour, featuring Interrupters, Weezer, Fallout Boy, Greenday"]
       },
       {
         "id": 41,
