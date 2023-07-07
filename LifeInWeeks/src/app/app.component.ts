@@ -24,4 +24,19 @@ export class AppComponent {
   openWeekInspector(week, year) {
     this.weekInspector.open(WeekInspectorComponent, {data: {"year" : year, "week" : week}});
   }
+
+  getColorByEvents(events) {
+    if(events == undefined)
+    {
+      return '#A6E1FA';
+    }
+    switch(events.length)
+    {
+      case 3: return '#001C55';
+      case 2: return '#0A2472';
+      case 1: return '#0E6BA8';
+      case 0: return '#A6E1FA';
+      default: return '#00072D';
+    }
+  }
 }
